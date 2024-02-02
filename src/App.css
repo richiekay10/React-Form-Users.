@@ -1,0 +1,15 @@
+/* src/App.css */
+
+.App {
+  text-align: center;
+}
+
+.user-list {
+  margin-top: 20px;
+}
+
+.user {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 5px;
+}
